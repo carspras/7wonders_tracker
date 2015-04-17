@@ -1,0 +1,14 @@
+0	nicht bekannt	
+1	Koloss von Rhodos
+2	Leuchtturm von Alexandrien
+3	Tempel der Artemis in Ephesus
+4	Hängende Gärten von Babylon
+5	Statue des Zeus in Olympia
+6	Mausoleum von Halikarnassos
+7	Pyramiden von Gizeh
+8	The Great Wall
+9	Abu Simbel
+10	Stonehenge
+11	Manneken Pis
+12	Khazne al-Firaun in Petra
+13	Hagia Sophia in Byzanz
